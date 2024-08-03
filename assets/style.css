@@ -126,6 +126,11 @@ body {
 	object-fit: cover;
 	padding: .5em;
 }
+.gallery .nav {
+    justify-content: center;
+    cursor: pointer;
+}
+
 .mg-prev, .mg-next {
 	width: 30px;
 	height: 30px;
