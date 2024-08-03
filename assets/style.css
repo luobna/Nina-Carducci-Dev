@@ -102,7 +102,7 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: darkred;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
@@ -260,7 +260,7 @@ input[type="submit"] {
 		margin-top: 0;
 		margin-bottom: 1em;
 	}
-	#about-me h6, #about-me p {
+	#about-me h4, #about-me p {
 		width: 100%;
 	}
 }
